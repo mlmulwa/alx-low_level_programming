@@ -1,7 +1,11 @@
 #include <stdio.h>
 
-/* The main function is the entry point of the C program */
 
+
+/**
+ *main - Entry point
+ *Return: Always 0 (Success)
+ */
 int main(void)
 
 {
