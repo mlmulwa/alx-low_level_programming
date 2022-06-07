@@ -1,7 +1,5 @@
-#include <stdio.h>
-#include <stdlib.h>
-#include <time.h>
-#include <main.file>
+#include <unistd.h>
+#include <main.h>
 /**
  *main - Entry point
  *Return: Always 0 (Success)
