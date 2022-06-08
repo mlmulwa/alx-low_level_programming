@@ -3,7 +3,7 @@
 /**
  * _isalpha - check the code for letters whether lower case or upper case
  * @c: letter being tested
- * Return: Always 0 (Success) 
+ * Return: Always 0 (Success)
  */
 int _isalpha(int c)
 {
