@@ -5,7 +5,7 @@
  * main - Entry point
  * Return: Always 0 (Success)
  */
-int main(void)
+void print_alphabet_x10(void)
 {
 	char mycase;
 	int i;
