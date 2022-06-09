@@ -1,5 +1,7 @@
 #include "main.h"
 #include <stdio.h>
+#include <stdlib.h>
+
 
 /**
  * positive_or_negative - checks whether is positive or negative
