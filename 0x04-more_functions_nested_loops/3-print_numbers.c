@@ -11,7 +11,6 @@ void print_numbers(void)
 	if (i >= 48 && i <= 57)
 	{
 		_putchar('i');
-		i++;
 	}
 	_putchar('\n');
 }
