@@ -1,12 +1,6 @@
-#include "main.h"
 #include <stdio.h>
 
 
-/**
- * positive_or_negative - checks whether is positive or negative
- * @i: is the number to be tested
- * Return: Always 0 (Success)
- */
 void positive_or_negative(int i)
 {
 	if (i > 0)
