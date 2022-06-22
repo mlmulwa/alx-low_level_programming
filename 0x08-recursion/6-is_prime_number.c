@@ -19,3 +19,14 @@ int prime(int x, int y)
 	}
 	return (prime(x, y + 1));
 }
+
+/**
+ * is_prime_number - returns 1 if the input integer is a prime number
+ * @n: number being tested
+ * Return: Always 0.
+ */
+
+int is_prime_number(int n)
+{
+	return (prime(n, 2));
+}
